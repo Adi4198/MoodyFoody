@@ -20,10 +20,8 @@
               </h2>
             </div>
             <p>
-              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-              in some form, by injected humour, or randomised words which don't look even slightly believable. If you
-              are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in
-              the middle of text. All
+               Welcome to Indias First, Moody Foody. We hope you enjoy your time with us. 
+                If there is anything you need, please don't hesitate to ask. You can call or text on this number.
             </p>
             <a href="">
               Read More
